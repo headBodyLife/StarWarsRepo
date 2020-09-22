@@ -5,6 +5,7 @@ Leia Organa
 Chewbacca
 Han Solo
 Jabba the hutt
+darth vader
 
 Rey
 Finn
